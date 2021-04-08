@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Home Security IoT Device",
+    "owner": "Jared Garalde"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Andrew Reifers"
+  }
+}
